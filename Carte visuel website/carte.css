@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0 40px 0 40px;
+    background-color: rgb(252, 245, 222);
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    margin: 40px;
+}
+header a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.cart {
+    display: flex;
+    border: 1px solid;
+    padding: 10px 10px 10px 30px;
+    height: 500px;
+}
+.cart .text {
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.cart .text h1 {
+    font-size: 4rem;
+    font-family: 'Nobile', sans-serif;
+}
+.cart .text p {
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    margin-bottom: 150px;
+}
+.social-icon {
+    font-size: 18px;
+    font-family: 'Nobile', sans-serif;
+}
+.social-icon h4 {
+    font-size: 15px;
+}
+.social-icon i {
+    font-size: 30px;
+    color: black;
+}
+.social-icon img {
+    padding: 10px;
+    border: 1px solid rgb(252, 245, 222);
+    height: 400;
+}
