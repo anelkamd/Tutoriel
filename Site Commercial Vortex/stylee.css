@@ -1,0 +1,137 @@
+body {
+    margin: 2px;
+    padding: 2px;
+    font-family: sans-serif;
+}
+header {
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding:25px 25px 25px 25px;
+    border-bottom: 0.1px solid rgb(155, 154, 154);
+}
+.icon1 {
+    letter-spacing: 10px;
+}
+.icon1 i {
+    font-size: 20px;
+    color: black;
+}
+.icon2 a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.icon2 i {
+    color: rgb(241, 72, 72);
+    font-size: 15px;
+}
+.navbar-text {
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.navbar-text img {
+    max-width: 130px;
+}
+.navbar-text a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+}
+.navbar-text a:hover {
+    color: rgb(241, 72, 72);
+}
+.navbar-text button {
+    display: inline-block;
+    background: transparent;
+    padding: 12px 28px;
+    border-radius: 5px;
+    color: black;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all .45s ease;
+}
+.navbar-text button:hover {
+    color: white;
+    background: rgb(10, 10, 43);
+}
+.navbar-text button i {
+    margin-left: 5px;
+}
+.container {
+    background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url(./image/background.WEBP);
+    height: 390px;
+    background-size: cover;
+    background-position: center;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 1px;
+}
+.container span {
+    color: rgb(241, 72, 72);
+}
+.container h3 {
+    font-family: sans-serif;
+    background-color: rgb(10, 10, 43);
+    color: #fff;
+    display: inline-block;
+    padding: 12px 28px;
+    border-radius: 5px;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin-left: 150px;
+}
+.container h1 {
+    font-size: 40px;
+    color: white;
+    margin-left: 150px;
+    padding: auto;
+}
+.container p {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #fff;
+    margin-left: 150px;
+}
+.container input{
+    align-items: center;
+    color: #fff;
+    padding: 12px 28px;
+    background-color: rgb(241, 72, 72);
+    font-size: 1rem;
+    letter-spacing: 1px;
+    font-weight: 400;
+    cursor: pointer;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.container .icon-service {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container .icon-service button {
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(10, 10, 43);
+}
+.container .icon-service button i {
+    margin-bottom: 10px;
+    display: block;
+    color: rgb(241, 72, 72);
+}

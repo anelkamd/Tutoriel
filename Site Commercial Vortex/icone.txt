@@ -1,0 +1,18 @@
+<a href="#"><i class='bx bxl-facebook-circle'></i></a>
+<a href="#"><i class='bx bxl-twitter' ></i></a>
+<a href="#"><i class='bx bxl-instagram' ></i></a>
+<a href="#"><i class='bx bxl-youtube' ></i></a>
+<i class='bx bxl-google-plus'></i>
+<i class='bx bxl-linkedin'></i>
+<i class='bx bxs-share-alt'></i>
+<i class='bx bxs-envelope'></i>
+<i class='bx bxs-chat'></i>
+<i class='bx bxl-whatsapp'></i>
+<i class='bx bxs-contact'></i>
+<i class='bx bxs-phone'></i>
+<i class='bx bxs-package'></i>
+<i class='bx bxs-cog'></i>
+<i class='bx bx-menu' ></i>
+<i class='bx bxs-shopping-bag'></i>
+<i class='bx bx-question-mark'></i>
+<i class='bx bx-right-arrow-alt'></i>
